@@ -1,8 +1,10 @@
-# Streamlit secrets (IMPORTANT - never push to GitHub!)
+# Secrets - NEVER push to GitHub!
 .streamlit/secrets.toml
+.env
 
 # Python cache
 __pycache__/
+*.pyc
 *.py[cod]
 *$py.class
 *.so
